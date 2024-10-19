@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: 
+Sitemap: https://growthyard.co/sitemap_index.xml
+
